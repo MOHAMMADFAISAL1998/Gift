@@ -68,6 +68,9 @@
     border-radius: 8px;
     box-shadow: 3px 3px 8px 3px rgb(253, 161, 158);
 }
+.msgBox iframe{
+    /* display: none; */
+}
 
 .msg{
     margin: 10px;
